@@ -10,6 +10,12 @@ Key Features:
 * Assign sub-goals.
 * The platform provides insights into team performance and helps optimize work processes to achieve the set goals.
 
+--------------------------
+
+https://www.figma.com/proto/Clq7FsdrR3bD42bxdpXGJz/Untitled?node-id=548-696&t=X0ruyxv99yfzZ0jF-0&scaling=scale-down&content-scaling=fixed&page-id=260%3A417&starting-point-node-id=548%3A696&show-proto-sidebar=1
+
+----------------------------
+
 *Start-page
 
 <img width="535" height="350" alt="Start-sida" src="https://github.com/user-attachments/assets/890687b8-e76b-45a9-a41e-a88db8610884" />
